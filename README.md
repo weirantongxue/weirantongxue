@@ -13,3 +13,46 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=5F9EA0&height=3&section=header" width="100%">
 </p>
+
+## 🎯 About Me
+
+```java
+package weiran;
+
+public class WeiranProfile {
+    public static final String USERNAME = "weiran";
+    public static final String NAME = "Weiran";
+    
+    private List<SimpleEntry<String, String>> introduction;
+    
+   
+    public WeiranProfile() {
+        introduction = new ArrayList<>();
+        introduction.add(new SimpleEntry<>("Learning", "Computer Science & Engineering"));
+        introduction.add(new SimpleEntry<>("Hobby", "Billiards"));
+        introduction.add(new SimpleEntry<>("Favorite Game", "PUBG"));
+        introduction.add(new SimpleEntry<>("Motto", "Stay hungry, stay foolish"));
+    }
+    
+   
+    public void sayHi() {
+        System.out.println("👨‍💻 PROFILE 👨‍💻");
+        System.out.printf("Operator: %s (@%s)%n", NAME, USERNAME);
+        System.out.println("Introduction:");
+        
+        for (SimpleEntry<String, String> entry : introduction) {
+            System.out.printf("  - %s: %s%n", entry.getKey(), entry.getValue());
+        }
+        
+        System.out.println("Thanks for visiting my profile!");
+        System.out.println("Let's embark on some epic coding adventures!");
+    }
+    
+   
+    public static void main(String[] args) {
+        WeiranProfile me = new WeiranProfile();
+        me.sayHi();
+    }
+}
+
+```
