@@ -64,17 +64,3 @@ public class WeiranProfile {
   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style="width:50%" alt="Programming GIF" />
 </div>
 
-<div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pp3ng&show_icons=true&theme=vue&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pp3ng&layout=compact&langs_count=6&theme=vue&text_bold=true" alt="Top Languages"/>
-  
-  <!-- Streak Stats -->
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pp3ng&theme=vue" alt="GitHub Streak" />
-
-  <!-- WakaTime Stats -->
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pp3nG&layout=compact&theme=vue&langs_count=8&hide=other,text&custom_title=Spent%20My%20Time%20On" alt="WakaTime Stats"/>
-  
-</div>
