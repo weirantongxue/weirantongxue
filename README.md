@@ -92,3 +92,11 @@ Feel free to reach out through any of these platforms:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gray&section=footer&reversal=false&textBg=false" alt="Footer Wave">
 </p>
+
+## ✨ Activity overview
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weirantongxue/weirantongxue/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weirantongxue/weirantongxue/output/pacman-contribution-graph-dark.svg">
+  <img alt="吃豆人风格贡献图" src="https://raw.githubusercontent.com/weirantongxue/weirantongxue/output/pacman-contribution-graph.svg">
+</picture>
+
