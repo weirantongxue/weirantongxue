@@ -64,3 +64,29 @@ public class WeiranProfile {
   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style="width:50%" alt="Programming GIF" />
 </div>
 
+## 📬 Connect With Me
+
+I'm always excited to connect with others and have meaningful conversations. Whether you want to:
+
+- 💡 **Collaborate** on exciting projects
+- 🤔 **Discuss** anything
+- 🎮 **Game** together (CSGO anyone?)
+
+Feel free to reach out through any of these platforms:
+
+<div align="center">
+  <a href="mailto:748536206@qq.com">
+    <img src="https://img.shields.io/badge/Email-D14836?&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Coding GIF"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gray&section=footer&reversal=false&textBg=false" alt="Footer Wave">
+</p>
+
+
