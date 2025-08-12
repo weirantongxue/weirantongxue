@@ -89,4 +89,5 @@ Feel free to reach out through any of these platforms:
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gray&section=footer&reversal=false&textBg=false" alt="Footer Wave">
 </p>
 
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirantongxue&show_icons=true&theme=tokyonight)
 
