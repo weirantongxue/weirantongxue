@@ -62,6 +62,7 @@ public class WeiranProfile {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style="width:50%" alt="Programming GIF" />
+  ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirantongxue&show_icons=true&theme=tokyonight)
 </div>
 
 ## 📬 Connect With Me
@@ -88,6 +89,3 @@ Feel free to reach out through any of these platforms:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gray&section=footer&reversal=false&textBg=false" alt="Footer Wave">
 </p>
-
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirantongxue&show_icons=true&theme=tokyonight)
-
